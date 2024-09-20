@@ -376,7 +376,7 @@ img {
   overflow: hidden;
 }
 
-.overlay {
+.text-over.overlay {
   background-color: #4d5ae5;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -454,7 +454,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .footer-social-list {
