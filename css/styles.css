@@ -376,7 +376,7 @@ img {
   overflow: hidden;
 }
 
-.text-over.overlay {
+.overlay {
   background-color: #4d5ae5;
   line-height: 1.5;
   letter-spacing: 0.02em;
